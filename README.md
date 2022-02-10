@@ -47,7 +47,7 @@ El flujo en un dispositivo cliente que permite visualizar un mapa en una aplicac
 | HTTP Method 	| URI path      	| Description                                    	| JSON 	|
 |-------------	|---------------	|------------------------------------------------	|---------	|
 | GET         	| `/`             	| Index page          	| |
-| GET         	| `/mapas/basico` 	| Baisc Google Maps render 	| |
+| GET         	| `/mapas/basico` 	| Basic Google Maps render 	| |
 | GET         	| `/restaurantes/crear` 	| Restaurant form render 	| |
 | POST         	| `/restaurantes/crear` 	| Restaurant form handler 	| |
 | GET         	| `/restaurantes/lista` 	| Google Maps with restaurant markers 	| |
